@@ -9,8 +9,7 @@ body {
 
 #container {
 	width: 960px;
-	margin-left: 240px;
-	margin-right: 240px;
+	margin-left: 0 auto;
 }
 
 header,
